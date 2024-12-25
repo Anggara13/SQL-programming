@@ -1,2 +1,2 @@
-# SQL-programming
+# SQL-programming-with DQLab
 Training
